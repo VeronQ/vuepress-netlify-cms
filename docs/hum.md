@@ -1,5 +1,5 @@
 ---
-title: Hum..
+title: Hum
 ---
 # Markdown Extensions
 
